@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "945330114354",
+    "project_id": "menualarm-daafd",
+    "storage_bucket": "menualarm-daafd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945330114354:android:9f6e1d79aaae63f98ad12b",
+        "android_client_info": {
+          "package_name": "com.kmpark0313.android.menualarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945330114354-074ooa27vitd9usjt9h1rck1ub9ls4de.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb_Fbwdwnh0oiUhQeuAURooApOHDT3VsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945330114354-074ooa27vitd9usjt9h1rck1ub9ls4de.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <font
+        android:font="@font/spoqahansansneobold"
+        app:font="@font/spoqahansansneobold" />
+
+    <font
+        android:font="@font/spoqahansansneolight"
+        app:font="@font/spoqahansansneolight" />
+
+    <font
+        android:font="@font/spoqahansansneomedium"
+        app:font="@font/spoqahansansneomedium" />
+
+    <font
+        android:font="@font/spoqahansansneoregular"
+        app:font="@font/spoqahansansneoregular" />
+
+    <font
+        android:font="@font/spoqahansansneothin"
+        app:font="@font/spoqahansansneothin" />
+
+</font-family>
